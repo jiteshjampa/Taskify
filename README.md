@@ -5,8 +5,10 @@
 <p id="description">Taskify is a Spring Boot-based task management application that allows users to create update and track tasks with features like due dates status management and RESTful APIs for seamless integration.</p>
 
 <h2>🚀 Demo</h2>
-
+<h3>CRUD Demo</h3>
 [https://www.loom.com/share/d066320d37f34dd4854b543a22496afa?sid=addb0304-9676-4d97-8a14-97c1a4710b03](https://www.loom.com/share/d066320d37f34dd4854b543a22496afa?sid=addb0304-9676-4d97-8a14-97c1a4710b03)
+<h3>Unit Test Demo</h3>
+[https://www.loom.com/share/445fecd4ceee47b8a5d00bc5bc34f43c?sid=32cf8891-cd5d-43ef-91ee-57bb810b0b5d](https://www.loom.com/share/445fecd4ceee47b8a5d00bc5bc34f43c?sid=32cf8891-cd5d-43ef-91ee-57bb810b0b5d)
 
 <h2>Project Screenshots:</h2>
 
